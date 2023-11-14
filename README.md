@@ -1,3 +1,4 @@
+<img src="CodeWithTSR.jpg" alt="It's TSR" width="500" height="600">
 <h1 align="center">Hi 👋, I'm Tushar Rajput</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
