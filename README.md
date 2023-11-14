@@ -1,4 +1,4 @@
-<img src="CodeWithTSR.jpg" alt="It's TSR">
+<img src="CodeWithTSR2.jpg" alt="It's TSR">
 <h1 align="center">Hi 👋, I'm Tushar Rajput</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
